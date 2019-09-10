@@ -53,3 +53,17 @@
       font-size: 3em;
    }
 }
+
+.contact {
+    text-align: center;
+    padding-top: 35vh;
+    padding-right: 5%;
+    display: inline;
+}
+
+.contact ul li a {
+    font-size: 4vh;
+    text-decoration: none;
+    color: #F9F1E9;
+    margin: 1.5vh 0;
+}
