@@ -53,7 +53,7 @@
       font-size: 3em;
    }
 }
-
+/* 
 .contact {
     text-align: center;
     padding-left: 10%;
@@ -63,8 +63,15 @@
     text-decoration: none;
     color: #F9F1E9;
     margin: 1.5vh 0;
+} */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  color: #F9F1E9;
 }
-
 /* .contact ul li a {
     font-size: 4vh;
     text-decoration: none;
