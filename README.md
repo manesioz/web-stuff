@@ -1,2 +1,2 @@
 # web-stuff
-testing interactive javascript + web shit 
+testing interactive javascript + web stuff 
